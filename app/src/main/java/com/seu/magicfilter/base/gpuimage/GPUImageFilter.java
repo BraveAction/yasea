@@ -24,7 +24,8 @@ import com.seu.magicfilter.utils.MagicFilterType;
 import com.seu.magicfilter.utils.OpenGlUtils;
 import com.seu.magicfilter.utils.Rotation;
 import com.seu.magicfilter.utils.TextureRotationUtil;
-import com.ximalaya.android.streaming.R;
+
+import net.ossrs.yasea.R;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
